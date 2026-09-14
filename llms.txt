@@ -1,0 +1,30 @@
+# ClaimSkills.ai India – AI Specialist 2.0
+
+> ClaimSkills.ai (CLAIM, Canadian Labs of AI and Management) runs AI Specialist 2.0: a 28-day certified, practical AI course for beginners in India and worldwide, in association with Barleti University (Europe). Price ₹999 (99% off ₹1,09,800). 6,000+ enrolled, 4.8/5 on Trustpilot. Five academies: AI Marketing (Meta & WhatsApp), AEO (Answer Engine Optimization), AI Agent & Automation, AI Software (no-code), AI Content Creator & Avatar (bonus). Taught by founders Gautam Jain (Umirai.ai, UN Leadership Excellence Award 2025) and Darshpreet Singh (Optume.ai, creator of AEO). Live orientation 19 Sept 2026, 8 PM IST, Hindi + English; recorded academies unlock in the LMS after it, plus a weekly live AI Mastermind session.
+
+## Main page
+- [AI Specialist 2.0 – India landing page](https://india.claimskills.ai/): curriculum, mentors, price, certificate, FAQ
+- [Full plain-text version](https://india.claimskills.ai/llms-full.txt): complete course description for LLMs
+
+## Key facts
+- Format: live orientation (19 Sept 2026) + 5 recorded academies in the LMS + weekly live AI Mastermind
+- Recordings: unlocked in the LMS after the live orientation by the founders
+- Course: Certified AI Specialist, 28 days, beginner-friendly, no coding
+- Price: ₹999 INR annual subscription (LMS access for 1 year), via Razorpay; not refundable (limited-time offer)
+- Certificate: CLAIM in association with Universiteti Barleti; verify at https://claimskills.ai/verify
+- Language: Hindi + English
+- LMS: https://lms.claimskills.ai
+- Batch: September 2026, orientation 19 Sept 2026 20:00 IST
+
+## Organisation
+- [ClaimSkills.ai](https://claimskills.ai)
+- [Umirai.ai (parent)](https://umirai.ai)
+- [Optume.ai (Darshpreet Singh)](https://optume.ai)
+- [Grow with Gautam Jain](https://growwithgautamjain.com)
+- [Trustpilot reviews](https://www.trustpilot.com/review/claimskills.ai)
+
+## Policies
+- [Privacy Policy](https://claimskills.ai/privacy-policy)
+- [Legal](https://claimskills.ai/legal)
+- [Cancellation & Refund](https://termsandconditions.umirai.ai/)
+- [Contact](https://claimskills.ai/contact-us)
