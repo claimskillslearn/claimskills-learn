@@ -18,7 +18,7 @@ Static site. No build step. Upload this folder as-is.
 - Open https://india.claimskills.ai/robots.txt, /sitemap.xml, /llms.txt and confirm they load.
 - Google Search Console + Bing Webmaster Tools: add the property, submit /sitemap.xml.
 - Rich Results Test: https://search.google.com/test/rich-results?url=https://india.claimskills.ai
-- Make a ₹1 test payment (Razorpay key rzp_live_T75kc2OCVrabhb, auto-capture must be enabled) and confirm the redirect to /thankyoupage.
+- Make a ₹1 test payment (Razorpay key rzp_live_TbCGIKTEbjZ9fV, auto-capture must be enabled) and confirm the redirect to /thankyoupage.
 
 ## Files
 - index.html – landing page as real static HTML (~135 KB). All copy, headings, FAQ and JSON-LD are in the raw HTML so non-JS AI crawlers (GPTBot, ClaudeBot, PerplexityBot) read the full page. support.js + React (unpkg) add interactivity; Razorpay, Wistia and Vimeo load lazily from their CDNs.
