@@ -507,7 +507,7 @@ class Component extends DCLogic {
     const rzp = new Razorpay({
       key: this.props.razorpayKey ?? 'rzp_live_TbCGIKTEbjZ9fV', amount: 99900, currency: 'INR',
       name: 'ClaimSkills.ai', description: 'AI Specialist 2.0. September Batch', image: location.origin + '/assets/logo-ai-specialist.webp',
-      prefill: { name, email, contact: cc + contact }, notes: { program: 'AI Specialist 2.0', batch: 'September 2026', whatsapp: cc + contact },
+      prefill: { name, email, contact: cc + contact }, notes: { name, email, whatsapp: cc + contact, program: 'AI Specialist 2.0', batch: 'September 2026' },
       theme: { color: '#340D13' },
       handler: (r) => { if (window.fbq) fbq('track', 'Purchase', { value: 999, currency: 'INR' }); location.href = thankyou + (thankyou.includes('?') ? '&' : '?') + 'payment_id=' + encodeURIComponent(r.razorpay_payment_id); },
       modal: { ondismiss: () => this.setState({ paying: false }) }
